@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">String_Resource</string>
+    <string name="text_title">Đăng Nhập Hệ Thống</string>
+    <string name="text_account">Tài Khoản</string>
+    <string name="text_password">Mật Khẩu</string>
+    <string name="text_btn_login">Đăng Nhập</string>
+</resources>
